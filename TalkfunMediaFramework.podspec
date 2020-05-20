@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
     s.name             = "TalkfunMediaFramework"
-    s.version          = "2.1.0"
+    s.version          = "2.2.0"
     s.summary          = "IJKPlayer framework。"
     s.license          = 'LGPLv2.1'
     s.author           = { "littleplayer" => "20727740@qq.com" }
-    s.homepage         = "https://talk-fun.coding.net/p/TalkfunMediaFramework"
-    s.source           = { :git => "https://e.coding.net/talk-fun/TalkfunMediaFramework.git", :tag => s.version.to_s }
+    s.homepage         = "https://github.com/20427740/TalkfunMediaFramework"
+    s.source           = { :git => "https://github.com/20427740/TalkfunMediaFramework.git", :tag => s.version.to_s }
 
     s.platform     = :ios, '9.0'
     s.requires_arc = true
